@@ -36,3 +36,6 @@ cp -r My_skills/naval-enhanced-perspective ~/.claude/skills/
 ## 📄 授权
 
 MIT
+
+---
+*Last updated: 2026-05-04*
